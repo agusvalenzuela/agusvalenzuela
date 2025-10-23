@@ -15,7 +15,7 @@
 - Me relaja cocinar, ¡Soy el encargado de hacerlo en casa!
 - Estoy aprendiendo desarrollo web con Generation
 - Mi página personal es [link](https://www.google.cl)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Estoy en búsqueda de un nuevo trabajo, este es mi CV(https://read.cv/0xabdulkhalid)
 
 <br><br>
 
