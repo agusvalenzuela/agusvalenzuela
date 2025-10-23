@@ -3,8 +3,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenidos+a+mi+GitHub..&hearts;++;Autodidacta,;Programador+Computacional,;Siempre+Aprendiendo,;Amo+Aprender+Cosas+Nuevas..<3"></a>
 </p>
-
-
 <br>
 
 ## <picture><img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5uZDJoOXo0ZDVicWY4dWp4NzBwcGViNWJocnBncTdxdzh4dDIwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2jrQvIiMtH5Nm/giphy.gif" width = 50px></picture> **Sobre mí**
@@ -13,10 +11,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
+- Me gusta aprender sobre cosas de desarrollo Full Stack
+- Me relaja cocinar, ¡Soy el encargado de hacerlo en casa!
+- Estoy aprendiendo desarrollo web con Generation
+- Mi página personal es [link](https://www.google.cl)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
